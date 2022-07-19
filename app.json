@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "recipes-react-native",
+    "slug": "recipes-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "recipes-react-native"
+}
